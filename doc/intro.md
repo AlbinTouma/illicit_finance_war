@@ -7,7 +7,7 @@ layout: notes
 
 War pays and when the line between military networks and business blurs, so too does the line between victories and profit blur. That profiteers of war rarely pay for their cimes is an open secret with devestating consequences as one lawyer in the Democratic Republic of Congo observed: "..the lack of prosecution in the area of financial crime encourages war crimes and war itself."
 
-Convictions are rare but not unheard of. In the 1948 Nuremburg Trials, executives from the German chemical company, IG Farben, were indicted on five counts and executed for their role in the production of Zyklon B. 
+Convictions are rare but not unheard of in history. During the 1948 Nuremburg Trials, executives from the German chemical company, IG Farben, were indicted on five counts and sentenced to die by hanging for their role in the production of Zyklon B. 
 
 Nuremburg established that agents of a state could be convicted, but not whether companies could be tried. The court's statutes limited prosecution to individuals, and even though the court had the right to prosecute individual businessmen, few of the Third Reich's executives were ever put on trial. Many maintained their innocence, like Ernst-Wolfgan, who maintained until his death that the ovens his business, Topf and Sons made for Auschwitz had been 'misused'.
 
