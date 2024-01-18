@@ -4,7 +4,4 @@
 format: jb-book
 root: index.md
 chapters:
-  - file:  doc/introduction.md
-  - file:  doc/history.md
-  - file:  doc/data_mining.md 
-  - file:  doc/corporate_registries.md
+  - file:  doc/intro.md
